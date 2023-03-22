@@ -4,7 +4,7 @@ Simple Website with Joke Generator
 
 ## Author
 
-Piranavini Raguraamamurty
+Piranavi Ragu
 
 ## Description
 
